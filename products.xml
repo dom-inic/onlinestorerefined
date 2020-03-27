@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Headphone</name>
+        <price>15</price>
+    </product>
+    <product>
+        <id>2</id>
+        <name>RAM</name>
+        <price>100</price>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Keyboard</name>
+        <price>25</price>
+    </product>
+    <product>
+        <id>4</id>
+        <name>Mouse</name>
+        <price>20</price>
+    </product>
+    <product>
+        <id>5</id>
+        <name>HDMI Cable</name>
+        <price>10</price>
+    </product>
+	<product>
+        <id>6</id>
+        <name>USB Cable</name>
+        <price>15</price>
+    </product>
+    <product>
+        <id>6</id>
+        <name>flashdisk</name>
+        <price>15</price>
+    </product>
+    <product>
+        <id>4</id>
+        <name>television</name>
+        <price>20</price>
+    </product>
+	 
+</products>
